@@ -1,2 +1,1 @@
-# MyCV
-Ali Rajabli | CV
+# Ali Rajabli | CV

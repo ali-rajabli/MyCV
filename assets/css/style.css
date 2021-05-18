@@ -250,7 +250,35 @@
     font-size: 17px;
 }
 
-.sect-2-3 .prog-skills>li {
+.sect-2-2 .work-experience>li>a {
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.sect-2-3 h3 {
+    font-size: 24px;
+    color: rgb(112, 117, 121);
+    font-weight: 600;
+}
+
+.sect-2-3 h5 {
+    letter-spacing: 1px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.sect-2-3 .work-experience>li {
+    font-size: 15px;
+    font-weight: 600;
+    width: fit-content;
+    padding: 4px;
+    margin-bottom: 8px;
+    text-decoration: none;
+    color: rgb(89, 92, 94);
+    font-size: 17px;
+}
+
+.sect-2-4 .prog-skills>li {
     font-size: 15px;
     font-weight: 600;
     width: fit-content;
