@@ -1,4 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+ul,
+ol {
+    padding-left: 0rem;
+}
+
 .bg-image {
     background-image: url(../img/bg.jpg);
     background-size: cover;
@@ -292,12 +303,27 @@
 
 @media screen and (max-width:600px) {
     .hd-section-2 h1 {
-        font-size: 60px;
+        font-size: 52px;
+    }
+    .hd-section-2 h3 {
+        font-size: 18px;
     }
     .section-title {
         font-size: 32px;
     }
     .section-title-2 {
-        font-size: 32px;
+        font-size: 28px;
+    }
+    .sect-2-2 h3 {
+        font-size: 20px;
+    }
+    .sect-2-2 h5 {
+        font-size: 14px;
+    }
+    .sect-2-3 h3 {
+        font-size: 20px;
+    }
+    .sect-2-3 h5 {
+        font-size: 14px;
     }
 }
